@@ -102,3 +102,17 @@ dist
 
 # TernJS port file
 .tern-port
+products.bff/bin/
+products.bff/obj/
+TestingMoq/DataAccess/bin/
+TestingMoq/DataAccess/obj/
+TestingMoq/Entities/bin/
+TestingMoq/Entities/obj/
+TestingMoq/Services/bin/
+TestingMoq/Services/obj/
+TestingMoq/WebApi/bin/
+TestingMoq/WebApi/obj/
+TestingMoq/XUnitTestProject/bin/
+TestingMoq/XUnitTestProject/obj/
+TestingMoq/TestingMoq/bin/Debug/TestingMoq.exe
+TestingMoq/TestingMoq/obj/
